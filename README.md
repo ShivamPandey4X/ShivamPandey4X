@@ -1,5 +1,5 @@
 ## Shivam Kr. Pandey 🚀
-👋 Hey there! I'm Shivam Pandey, a passionate full-stack developer with a love for crafting web applications and a diverse skill set in various programming languages and tools. Welcome to my GitHub universe! 🌌
+👋 Hey there! I'm Shivam, a passionate full-stack developer with a love for crafting web applications and a diverse skill set in various programming languages and tools. Welcome to my GitHub universe! 🌌
 
 ## About Me
  🌐 Full-stack Developer
